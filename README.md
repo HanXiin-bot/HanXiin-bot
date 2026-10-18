@@ -69,7 +69,7 @@ mood     : curious, caffeinated
 <tr>
 <td width="33%" valign="top">
 
-**🤖 robot-delivery-scheduler**
+**🤖 [robot-delivery-scheduler](https://github.com/HanXiin-bot/robot-delivery-scheduler)**
 
 <sub>Reads robots, packages and routes from CSV, checks whether each delivery is actually doable (battery, zone, load), then plots where every robot is over time.</sub>
 
