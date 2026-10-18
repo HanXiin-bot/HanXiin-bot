@@ -87,7 +87,7 @@ mood     : curious, caffeinated
 </td>
 <td width="33%" valign="top">
 
-**👗 DrapeLoop** <sub>· early stage</sub>
+**👗 [DrapeLoop](https://github.com/HanXiin-bot/drapeloop)** <sub>· early stage</sub>
 
 <sub>An idea I'm shaping: set up your profile once, then try on different outfits with AI. Still in planning — scenarios, user stories and MVP scope.</sub>
 
