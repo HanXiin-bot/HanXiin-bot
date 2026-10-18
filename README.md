@@ -51,25 +51,51 @@ mood     : curious, caffeinated
 <h3 align="center">🧰 &nbsp;tools in my backpack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux&theme=light" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,docker,git,github,vscode&theme=light" alt="skills" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DBeaver-7ECFC7?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver" />
+  <img src="https://img.shields.io/badge/QGIS-7ECFC7?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" />
+  <img src="https://img.shields.io/badge/pandas-7ECFC7?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-7ECFC7?style=flat-square" alt="Matplotlib" />
 </p>
 
 <br/>
 
-<h3 align="center">🌱 &nbsp;what's growing here</h3>
+<h3 align="center">🌱 &nbsp;things I've been tinkering with</h3>
 
-<p align="center">
-  <sub>
-    the portfolio is still a seedling — projects will sprout here soon.<br/>
-    until then, feel free to wander through my repos 🍃
-  </sub>
-</p>
+<table align="center">
+<tr>
+<td width="33%" valign="top">
 
-<br/>
+**🤖 robot-delivery-scheduler**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HanXiin-bot&show_icons=true&hide_border=true&bg_color=00000000&title_color=2E8B83&icon_color=7ECFC7&text_color=6b7c7a&hide_rank=true" height="150" alt="stats" />
-</p>
+<sub>Reads robots, packages and routes from CSV, checks whether each delivery is actually doable (battery, zone, load), then plots where every robot is over time.</sub>
+
+<sub>`Python` `pandas` `Matplotlib`</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**🪶 poetry-generator**
+
+<sub>Teaches a tiny k-gram model to read poems, then lets it write its own — including haiku and acrostics. Built for FIT9136, with unit tests.</sub>
+
+<sub>`Python` `OOP` `unittest`</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**👗 DrapeLoop** <sub>· early stage</sub>
+
+<sub>An idea I'm shaping: set up your profile once, then try on different outfits with AI. Still in planning — scenarios, user stories and MVP scope.</sub>
+
+<sub>`Product` `AI` `Planning`</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -81,8 +107,6 @@ mood     : curious, caffeinated
   <a href="https://github.com/HanXiin-bot">
     <img src="https://img.shields.io/badge/say%20hi-@HanXiin--bot-7ECFC7?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=HanXiin-bot&color=7ECFC7&style=flat-square&label=visitors" alt="visitors" />
 </p>
 
 <!-- ░░░ footer ░░░ -->
