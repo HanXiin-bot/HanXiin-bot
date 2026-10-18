@@ -1,11 +1,11 @@
 <!-- ░░░ header ░░░ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E6DF,50:7ECFC7,100:2E8B83&height=220&section=header&text=Finn%20Han&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=a%20late%20bloomer%20in%20tech%20%C2%B7%20Melbourne&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Finn Han" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E6DF,50:7ECFC7,100:2E8B83&height=220&section=header&text=Xinzhi%20Han&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=a%20late%20bloomer%20in%20tech%20%C2%B7%20Melbourne&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Xinzhi Han" />
 </p>
 
 <p align="center">
   <a href="https://github.com/HanXiin-bot">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=2E8B83&center=true&vCenter=true&width=560&lines=Hi+there+%E2%80%94+I'm+Finn+%F0%9F%91%8B;I+took+the+long+way+into+tech.;Now+learning+to+speak+Python+%26+SQL.;Breaking+things+gently%2C+learning+every+time." alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=2E8B83&center=true&vCenter=true&width=560&lines=Hi+there+%E2%80%94+I'm+Xinzhi+%F0%9F%91%8B;I+took+the+long+way+into+tech.;Now+learning+to+speak+Python+%26+SQL.;Breaking+things+gently%2C+learning+every+time." alt="typing intro" />
   </a>
 </p>
 
